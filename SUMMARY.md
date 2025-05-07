@@ -1,7 +1,5 @@
 # Table of contents
 
 * [CloudScientifc](README.md)
-
-## Application
-
-* [Lifesci](application/lifesci.md)
+* [Lifesci](lifesci/README.md)
+  * [Lifesci Gateway](lifesci/lifesci-gateway.md)
